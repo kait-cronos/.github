@@ -30,7 +30,7 @@ KAIT-CRONOSは、SRv6とDPDKを使用したインネットワークコンピュ�
 
 **主任研究者:** 丸山充教授
 
-**所属機関:** [超ブロードバンドネットワーク研究センター](https://www.kait.jp/research/navi/maruyama.html), [神奈川工科大学（KAIT）](https://www.kait.jp/)
+**所属機関:** [超ブロードバンドネットワーク研究センター](https://www.kait.jp/tech_news/tech_20250530.html), [神奈川工科大学（KAIT）](https://www.kait.jp/)
 
 **資金援助:** [JST CRONOS](https://www.jst.go.jp/kisoken/cronos/overview/index.html)プログラム（科学技術振興機構）
 

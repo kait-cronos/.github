@@ -30,7 +30,7 @@ This research develops an architectural framework that seamlessly integrates net
 
 **Principal Investigator:** Prof. Mitsuru Maruyama
 
-**Institution:** [Ultra-Broadband Network Research Center](https://www.kait.jp/research/navi/maruyama.html), [Kanagawa Institute of Technology (KAIT)](https://www.kait.jp/)
+**Institution:** [Ultra-Broadband Network Research Center](https://www.kait.jp/tech_news/tech_20250530.html) *(Japanese only)*, [Kanagawa Institute of Technology (KAIT)](https://www.kait.jp/)
 
 **Funding:** [JST CRONOS](https://www.jst.go.jp/kisoken/cronos/overview/index.html) program (Japan Science and Technology Agency)
 
