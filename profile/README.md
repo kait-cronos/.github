@@ -12,6 +12,7 @@ This approach allows real-time coordination between the network and computationa
 - By merging the software router section using DPDK and CPU processing and optimizing the data transfer, we will achieve ultra-high-speed and low latency performance of 1 Tbps and less than 1 μs.
 - We will facilitate early social implementation through various application demonstration experiments on wide-area testbeds and provide the platform as an OSS.
 
+<!--
 ## 📚 Publications
 
 (To be added)
@@ -19,6 +20,7 @@ This approach allows real-time coordination between the network and computationa
 ## 📅 Events
 
 (To be added)
+-->
 
 ## 💻 Software
 
@@ -33,6 +35,9 @@ Features:
 - **CLI Management**: Interactive command-line interface for configuration and monitoring
 - **Multi-threading**: Cooperative threading model with per-core workers
 
+<!--
 ## 🔗 Links
 
 (To be added)
+-->
+
