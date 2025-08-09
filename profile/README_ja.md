@@ -16,7 +16,7 @@ KAIT-CRONOSは、SRv6とDPDKを使用したインネットワークコンピュ�
 
 ## ソフトウェア
 
-**sdplane** *(近日公開予定)*
+[**sdplane-oss**](https://github.com/kait-cronos/sdplane-oss) *(近日公開予定)*
 
 ソフトウェア定義ネットワーク向けのDPDKベース高性能オープンソースソフトウェアルーター
 

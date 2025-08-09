@@ -16,7 +16,7 @@ This research develops an architectural framework that seamlessly integrates net
 
 ## Software
 
-**sdplane** *(coming soon)*
+[**sdplane-oss**](https://github.com/kait-cronos/sdplane-oss) *(coming soon)*
 
 A high-performance open-source software router built on DPDK for software-defined networking.
 
