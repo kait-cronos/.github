@@ -16,17 +16,15 @@ This research develops an architectural framework that seamlessly integrates net
 
 ## Software
 
-[**sdplane-oss**](https://github.com/kait-cronos/sdplane-oss) *(coming soon)*
-
-A high-performance open-source software router built on DPDK for software-defined networking.
-
-Features:
-- High-performance packet processing with DPDK
-- Layer 2/3 forwarding with ACL, LPM, and FIB support  
-- Built-in packet generator for testing
-- Network virtualization with TAP interface and VLAN switching
-- CLI management interface
-- Multi-threading with per-core workers
+- **sdplane**: A high-performance open-source software router built on DPDK for software-defined networking
+  - Repository: [**sdplane-oss**](https://github.com/kait-cronos/sdplane-oss) *(coming soon)*
+  - Features:
+    - High-performance packet processing with DPDK
+    - Layer 2/3 forwarding with ACL, LPM, and FIB support  
+    - Built-in packet generator for testing
+    - Network virtualization with TAP interface and VLAN switching
+    - CLI management interface
+    - Multi-threading with per-core workers
 
 ## Research Team
 
