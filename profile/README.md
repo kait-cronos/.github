@@ -1,37 +1,36 @@
 # KAIT-CRONOS
 
-**Language:** English | [Japanese](README_ja.md)
+**Language:** Japanese | [English](README_en.md)
 
 ---
 
-KAIT-CRONOS is a research project that builds a software-based platform for high-speed, low-latency processing of 8K+ media streams using in-network computing with SRv6 and DPDK.
+KAIT-CRONOSは、SRv6とDPDKを使用したインネットワークコンピューティングで8K+メディアストリームの高速・低遅延処理を可能にするソフトウェアベースプラットフォームの研究プロジェクトです。
 
-## About the Project
+## プロジェクトについて
 
-This research develops an architectural framework that seamlessly integrates networks and computational resources, enabling real-time coordination for high-speed and low-latency processing.
+ネットワークと計算リソースをシームレスに統合し、リアルタイム連携による高速・低遅延処理を実現するアーキテクチャフレームワークを開発しています。
 
-**Target Performance:**
-- Speed: 1 Tbps
-- Latency: Less than 1 μs
+**目標性能:**
+- 速度: 1Tbps
+- 遅延: 1μs未満
 
-## Software
+## ソフトウェア
 
-- **sdplane**: A high-performance open-source software router built on DPDK for software-defined networking
-  - Repository: [**sdplane-oss**](https://github.com/kait-cronos/sdplane-oss) *(coming soon)*
-  - Features:
-    - High-performance packet processing with DPDK
-    - Layer 2/3 forwarding with ACL, LPM, and FIB support  
-    - Built-in packet generator for testing
-    - Network virtualization with TAP interface and VLAN switching
-    - CLI management interface
-    - Multi-threading with per-core workers
+- **sdplane**: ソフトウェア定義ネットワーク向けのDPDKベース高性能オープンソースソフトウェアルーター
+  - リポジトリ: [**sdplane-oss**](https://github.com/kait-cronos/sdplane-oss) *(近日公開予定)*
+  - 機能:
+    - DPDKによる高性能パケット処理
+    - ACL、LPM、FIB対応のレイヤー2/3転送
+    - テスト用内蔵パケットジェネレーター
+    - TAPインターフェース・VLANスイッチング対応のネットワーク仮想化
+    - CLI管理インターフェース
+    - コア別ワーカーによるマルチスレッディング
 
-## Research Team
+## 研究チーム
 
-**Principal Investigator:** Prof. Mitsuru Maruyama
+**主任研究者:** 丸山充教授
 
-**Institution:** [Ultra-Broadband Network Research Center](https://www.kait.jp/research/navi/maruyama.html), [Kanagawa Institute of Technology (KAIT)](https://www.kait.jp/)
+**所属機関:** [超ブロードバンドネットワーク研究センター](https://www.kait.jp/research/navi/maruyama.html), [神奈川工科大学（KAIT）](https://www.kait.jp/)
 
-**Funding:** [JST CRONOS](https://www.jst.go.jp/kisoken/cronos/overview/index.html) program (Japan Science and Technology Agency)
-
+**資金援助:** [JST CRONOS](https://www.jst.go.jp/kisoken/cronos/overview/index.html)プログラム（科学技術振興機構）
 
