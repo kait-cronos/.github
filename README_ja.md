@@ -1,6 +1,8 @@
 # KAIT-CRONOSプロジェクトリポジトリ
 
-*[英語版](README.md) | [プロジェクトホームページを見る](profile/README.md)*
+**Language:** [English](README.md) | Japanese
+
+**[プロジェクトホームページを見る](profile/README.md)**
 
 これは、KAIT-CRONOS研究プロジェクトの公式リポジトリです。プロジェクトのホームページとドキュメントを管理し、`sdplane`ソフトウェアルーターの開発が始まり次第、そのソースコードもホストする予定です。
 

@@ -1,6 +1,8 @@
 # KAIT-CRONOS Project Repository
 
-*[Japanese](README_ja.md) | [View Project Homepage](profile/README.md)*
+**Language:** English | [Japanese](README_ja.md)
+
+**[View Project Homepage](profile/README.md)**
 
 This is the official repository for the KAIT-CRONOS research project homepage and documentation. This repository serves as the central hub for project information and will host the source code for the `sdplane` software router once development begins.
 
