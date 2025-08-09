@@ -1,6 +1,6 @@
 # KAIT-CRONOS
 
-*[English version](README.md) | [リポジトリ](../README.md)*
+*[英語版](README.md)*
 
 KAIT-CRONOSは、[神奈川工科大学（KAIT）](https://www.kait.jp/)の超ブロードバンドネットワーク研究センターで丸山充教授が主導する研究プロジェクトです。本プロジェクトは[JST CRONOS](https://www.jst.go.jp/kisoken/cronos/overview/index.html)プログラムの一部として、SRv6とDPDKを使用したインネットワークコンピューティングによる8K+メディアストリームの高速・低遅延処理を可能にするソフトウェアベースプラットフォームの構築に焦点を当てています。
 
@@ -51,7 +51,3 @@ DPDK（Data Plane Development Kit）をベースに構築された高性能オ�
 （追加予定）
 -->
 
-## 🌐 言語サポート
-
-- **英語** (デフォルト): [English version](README.md)
-- **日本語**: このページ

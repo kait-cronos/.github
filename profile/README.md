@@ -1,6 +1,6 @@
 # KAIT-CRONOS
 
-*[日本語版はこちら](README_ja.md) | [Repository](../README.md)*
+*[Japanese](README_ja.md)*
 
 KAIT-CRONOS is a research project led by Prof. Mitsuru Maruyama at the Ultra-Broadband Network Research Center, [Kanagawa Institute of Technology (KAIT)](https://www.kait.jp/). The project is part of the [JST CRONOS](https://www.jst.go.jp/kisoken/cronos/overview/index.html) program and focuses on building a software-based platform that enables high-speed, low-latency processing of 8K+ media streams using in-network computing with SRv6 and DPDK.
 
@@ -51,8 +51,4 @@ This research is supported by the [JST CRONOS](https://www.jst.go.jp/kisoken/cro
 (To be added)
 -->
 
-## 🌐 Language Support
-
-- **English** (Default): This page
-- **Japanese**: [日本語版](README_ja.md)
 
