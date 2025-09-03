@@ -4,8 +4,8 @@
 
 ---
 
-KAIT‑CRONOS is a research project led by Prof. Mitsuru Maruyama at the Ultra-Broadband Network Research Center, [Kanagawa Institute of Technology (KAIT)](https://en.kait.jp/index.html).
-The project is part of the [JST CRONOS](https://www.jst.go.jp/kisoken/cronos/en/overview/index.html) program and focuses on building a software-based platform that enables high-speed, low-latency processing of 8K+ media streams in-network computing using SRv6 and DPDK.
+KAIT‑CRONOS is a research project led by Prof. Mitsuru Maruyama at the Ultrahigh-speed Network Research Center, [Kanagawa Institute of Technology (KAIT)](https://en.kait.jp/index.html).
+The project is part of the [JST CRONOS](Ultra-high-speed In-Network Computing Platform:JPMJCS24N9) program and focuses on building a software-based platform that enables high-speed, low-latency processing of 8K+ media streams in-network computing using SRv6 and DPDK.
 
 ## 🧭 Research Overview
 
@@ -18,8 +18,8 @@ This approach allows real-time coordination between the network and computationa
 
 ## Software
 
-- **sdplane**: A high-performance open-source software router built on DPDK for software-defined networking
-  - Repository: [**sdplane-oss**](https://github.com/kait-cronos/sdplane-oss) *(coming soon)*
+- **sdplane**: DPDK-dock Development Environment for software-defined networking
+  - Repository: [**sdplane-oss**](https://github.com/kait-cronos/sdplane-oss) 
   - Features:
     - High-performance packet processing with DPDK
     - Layer 2/3 forwarding with ACL, LPM, and FIB support  
