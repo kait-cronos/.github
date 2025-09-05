@@ -34,5 +34,5 @@ KAIT-CRONOSは、[神奈川工科大学（KAIT）](https://www.kait.jp/)の超�
 
 **所属機関:** [超広帯域ネットワーク研究センター](https://www.kait.jp/tech_news/tech_20250530.html), [神奈川工科大学（KAIT）](https://www.kait.jp/)
 
-**コンタクト先:** sdplane@nwlab.org
+**コンタクト先:** sdplane [at] nwlab.org
 
