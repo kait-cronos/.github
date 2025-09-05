@@ -12,7 +12,7 @@ KAIT-CRONOSは、[神奈川工科大学（KAIT）](https://www.kait.jp/)の超�
 本研究プロジェクトでは、インラインネットワークコンピューティングを活用してネットワークと計算リソースをシームレスに統合し、自律的な機能連携を促進するアーキテクチャフレームワークを提案しています。このアプローチにより、ネットワークと計算リソース間のリアルタイム連携が可能となり、高速・低遅延処理を実現します。さらに、ネットワーク状態をアプリケーションやユーザー端末側と共有するシステムを導入し、より合理化された適応的なネットワーク運用を促進します。
 
 - IETF SRv6 End.ANを使用した標準化の促進、障害時の処理継続を確保する動的リソース割り当てを支援するコントロールプレーンの標準化を含む。
-  - SRv6 SFC Architecture with SR-aware Functions(https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/)
+  - [SRv6 SFC Architecture with SR-aware Functions](https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/)
 - DPDKを使用したソフトウェアルーター部分とCPU処理の融合、データ転送の最適化により、1Tbpsの超高速性能と1μs未満の低遅延を実現。
 - 広域テストベッドでの様々なアプリケーション実証実験により早期社会実装を促進し、プラットフォームをOSSとして提供。
 
@@ -27,12 +27,12 @@ KAIT-CRONOSは、[神奈川工科大学（KAIT）](https://www.kait.jp/)の超�
     - TAPインターフェース・VLANスイッチング対応のネットワーク仮想化
     - CLI管理インターフェース
     - コア別ワーカーによるマルチスレッディング
-
+  
 ## 研究チーム
 
 **研究代表者:** 丸山充特命教授
 
 **所属機関:** [超広帯域ネットワーク研究センター](https://www.kait.jp/tech_news/tech_20250530.html), [神奈川工科大学（KAIT）](https://www.kait.jp/)
 
-**資金援助:** [JST CRONOS](https://www.jst.go.jp/kisoken/cronos/overview/index.html)プログラム（科学技術振興機構）
+**コンタクト先:** sdplane@nwlab.org
 
