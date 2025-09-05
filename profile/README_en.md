@@ -36,6 +36,6 @@ This approach allows real-time coordination between the network and computationa
 
 **Institution:** [Ultrahigh-speed Network Research Center](https://www.kait.jp/tech_news/tech_20250530.html) *(Japanese only)*, [Kanagawa Institute of Technology (KAIT)](https://en.kait.jp/index.html)
 
-**Contact:** sdplane@nwlab.org
+**Contact:** sdplane [at] nwlab.org
 
 
