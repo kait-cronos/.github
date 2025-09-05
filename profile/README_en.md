@@ -14,7 +14,7 @@ This research project proposes an architectural framework leveraging in-network 
 This approach allows real-time coordination between the network and computational resources, achieving high-speed and low-latency processing. Additionally, the study introduces a system that shares network status with application and user terminal sides, promoting more streamlined and adaptive network operations.
 
 - Promote standardization, including that of a control plane that facilitates dynamic resource allocation to ensure uninterrupted processing in the event of a failure, using IETF SRv6 End.AN.
-  - SRv6 SFC Architecture with SR-aware Functions(https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/)
+  - [SRv6 SFC Architecture with SR-aware Functions](https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/)
 - By merging the software router section using DPDK and CPU processing and optimizing the data transfer, we will achieve ultra-high-speed and low latency performance of 1 Tbps and less than 1 μs.
 - We will facilitate early social implementation through various application demonstration experiments on wide-area testbeds and provide the platform as an OSS.
 
@@ -36,6 +36,6 @@ This approach allows real-time coordination between the network and computationa
 
 **Institution:** [Ultrahigh-speed Network Research Center](https://www.kait.jp/tech_news/tech_20250530.html) *(Japanese only)*, [Kanagawa Institute of Technology (KAIT)](https://en.kait.jp/index.html)
 
-**Funding:** [JST CRONOS](https://www.jst.go.jp/kisoken/cronos/en/overview/index.html) Program (Japan Science and Technology Agency)
+**Contact:** sdplane@nwlab.org
 
 
