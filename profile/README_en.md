@@ -29,7 +29,7 @@ This approach allows real-time coordination between the network and computationa
 ## Features
 
   - High-performance packet processing: Zero-copy, user-space packet processing using DPDK
-  - Layer 2/3 forwarding: Integrated ACL, LPM, and FIB support with SRv6 End functionality
+  - Layer 2/3 forwarding: Integrated LPM, and FIB support with SRv6 End functionality
   - Packet generator: Built-in packet generator for testing and benchmarking
   - Network virtualization: TAP interface support and VLAN switching
   - CLI management: Interactive command-line interface for configuration and monitoring
