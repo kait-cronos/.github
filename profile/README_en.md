@@ -22,6 +22,10 @@ This approach allows real-time coordination between the network and computationa
 - By merging the software router section using DPDK and CPU processing and optimizing the data transfer, we will achieve ultra-high-speed and low latency performance of 1 Tbps and less than 1 μs.
 - We will facilitate early social implementation through various application demonstration experiments on wide-area testbeds and provide the platform as an OSS.
 
+## Software
+
+- Repository: [**sdplane-oss**](https://github.com/kait-cronos/sdplane-oss)
+
 ## Features
 
   - High-performance packet processing: Zero-copy, user-space packet processing using DPDK
