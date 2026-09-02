@@ -39,7 +39,7 @@ This approach allows real-time coordination between the network and computationa
 
 **Principal Investigator:** Prof. Mitsuru Maruyama
 
-**Joint Investigator:** Dr. Yasuhiro Ohara and Prof. Katsuhiro Sebayashi 
+**Joint Investigator:** Prof. Yasuhiro Ohara and Prof. Katsuhiro Sebayashi 
 
 **Institution:** [Ultrahigh-speed Network Research Center](https://www.kait.jp/tech_news/tech_20250530.html) *(Japanese only)*, [Kanagawa Institute of Technology (KAIT)](https://en.kait.jp/index.html)
 
